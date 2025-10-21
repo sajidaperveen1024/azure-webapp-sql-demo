@@ -281,3 +281,4 @@ C:\EmployeeManager\obj\Release\net8.0\refint\EmployeeManager.dll
 C:\EmployeeManager\obj\Release\net8.0\EmployeeManager.pdb
 C:\EmployeeManager\obj\Release\net8.0\EmployeeManager.genruntimeconfig.cache
 C:\EmployeeManager\obj\Release\net8.0\ref\EmployeeManager.dll
+C:\EmployeeManager\obj\Release\net8.0\EmployeeManager.sourcelink.json
