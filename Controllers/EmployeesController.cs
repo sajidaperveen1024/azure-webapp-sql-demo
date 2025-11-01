@@ -25,6 +25,7 @@ namespace EmployeeManager.Controllers
             return View(await _context.Employees.ToListAsync());
         }
 
+
         // GET: Employees/Details/5
         public async Task<IActionResult> Details(int? id)
         {
